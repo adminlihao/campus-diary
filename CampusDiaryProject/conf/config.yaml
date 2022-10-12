@@ -1,0 +1,24 @@
+port: 9000
+release: false
+
+mysql:
+  username: root
+  password: root
+  host: 127.0.0.1
+  port: 3306
+  db: campusdiary
+
+
+redis:
+  username:
+  password: root
+  host: 192.168.64.128
+  port: 6379
+  db: 0
+  poolSize: 32
+
+rabbitmq:
+  username: admin
+  password: root
+  host: 192.168.64.128
+  port: 5672

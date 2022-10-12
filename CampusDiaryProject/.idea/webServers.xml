@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="52aba982-b210-4171-b774-11ccee6f0610" name="呆呆的服务器">
+        <fileTransfer rootFolder="/www/wwwroot" accessType="SFTP" host="123.57.180.25" port="22" sshConfigId="f6473a33-6be2-4e1e-887b-53139f0e14c8" sshConfig="root@123.57.180.25:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
